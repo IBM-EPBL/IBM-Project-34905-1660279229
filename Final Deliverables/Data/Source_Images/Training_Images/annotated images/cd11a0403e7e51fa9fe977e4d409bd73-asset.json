@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "cd11a0403e7e51fa9fe977e4d409bd73",
+        "name": "images%20(47).jpg",
+        "path": "file:C:/yolo_structure/Data/Source_Images/Training_Images/images%20(47).jpg",
+        "size": {
+            "width": 272,
+            "height": 185
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "awp7SX1EP",
+            "type": "RECTANGLE",
+            "tags": [
+                "Erythema toxicum neonatorum"
+            ],
+            "boundingBox": {
+                "height": 96.93605683836589,
+                "width": 101.83574879227054,
+                "left": 96.90821256038647,
+                "top": 34.36917184724689
+            },
+            "points": [
+                {
+                    "x": 96.90821256038647,
+                    "y": 34.36917184724689
+                },
+                {
+                    "x": 198.743961352657,
+                    "y": 34.36917184724689
+                },
+                {
+                    "x": 198.743961352657,
+                    "y": 131.30522868561278
+                },
+                {
+                    "x": 96.90821256038647,
+                    "y": 131.30522868561278
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "d1448f1944e71bc8981d0ccbf2ef4097",
+        "name": "images%20(14).jpg",
+        "path": "file:C:/yolo_structure/Data/Source_Images/Training_Images/images%20(14).jpg",
+        "size": {
+            "width": 272,
+            "height": 185
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "iSUAReVB_",
+            "type": "RECTANGLE",
+            "tags": [
+                "Erythema ab igne"
+            ],
+            "boundingBox": {
+                "height": 100.55062166962699,
+                "width": 112.67632850241546,
+                "left": 88.3671497584541,
+                "top": 58.35673845470692
+            },
+            "points": [
+                {
+                    "x": 88.3671497584541,
+                    "y": 58.35673845470692
+                },
+                {
+                    "x": 201.04347826086956,
+                    "y": 58.35673845470692
+                },
+                {
+                    "x": 201.04347826086956,
+                    "y": 158.9073601243339
+                },
+                {
+                    "x": 88.3671497584541,
+                    "y": 158.9073601243339
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

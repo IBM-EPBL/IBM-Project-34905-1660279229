@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "31e76509ba37693b604509cb636d6639",
+        "name": "images%20(49).jpg",
+        "path": "file:C:/yolo_structure/Data/Source_Images/Training_Images/images%20(49).jpg",
+        "size": {
+            "width": 275,
+            "height": 183
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "Z-5tvYd3q",
+            "type": "RECTANGLE",
+            "tags": [
+                "Erythema multiforme"
+            ],
+            "boundingBox": {
+                "height": 99.96914700544465,
+                "width": 139.4927536231884,
+                "left": 49.486714975845395,
+                "top": 54.96642468239565
+            },
+            "points": [
+                {
+                    "x": 49.486714975845395,
+                    "y": 54.96642468239565
+                },
+                {
+                    "x": 188.9794685990338,
+                    "y": 54.96642468239565
+                },
+                {
+                    "x": 188.9794685990338,
+                    "y": 154.9355716878403
+                },
+                {
+                    "x": 49.486714975845395,
+                    "y": 154.9355716878403
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

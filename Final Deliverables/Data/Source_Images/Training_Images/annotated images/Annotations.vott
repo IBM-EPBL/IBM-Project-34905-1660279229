@@ -1,0 +1,697 @@
+{
+    "name": "Annotations",
+    "securityToken": "Images Token",
+    "sourceConnection": {
+        "name": "Images",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiNTJhZWIxNTdjYWIwNmMwNzBkYjQ4NzRmOTZhZTJmOTI0YzEwZTZkOWI0MWVmNzcwM2Y1YTVkZmIxZTNmZjY2ODkyMjI1MGY0MmZlMTFlODdjZGUzYzEwYmZlNmNlZmYyNDM5NmNiMWYxM2NiZWY2YmM4YjNmMjUxZjhiYjcwNjZlNzZhOTRjNGJlMDc1NGY1YWVjODc4NWQxY2MwMjNmNSIsIml2IjoiY2I2NDc0NDJhYmQ5ZDVlMzNmMWU2ZDBlYzM1YmU3NTBhMzM4NTZjODM4ZTRmNmQ5In0="
+        },
+        "id": "H5PwkBO0n"
+    },
+    "targetConnection": {
+        "name": "Images",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiMGMxN2U3MDUwOGJjYzhhMWFjNzdjZjdiMTdiMzllN2ExMzlkZjVmN2Y3ZjgzMGVkZTFkMzY1MDczMWEyZDIwNTQ1YmU5ZDJkNDY1OGVmNDlmYjZjOWIyZThmOGE5NDFkMTkzZjllNmI4MWFlNWFkZjlkYzlkYzA4YjZjNGI1OWNiODk5MTMwMDZmMmYwZTZmNDc2NWNlNWM2ZTE5ZjRmZCIsIml2IjoiNjE1NzVkNGQ5M2I4Mzc3ZDlkYTc1NzIxYmE4YjM2ZDFiYTg3ODE1MzVkY2M2MzAyIn0="
+        },
+        "id": "sKlZxxOA7"
+    },
+    "videoSettings": {
+        "frameExtractionRate": 15
+    },
+    "tags": [
+        {
+            "name": "Erythema infectiosum",
+            "color": "#5db300"
+        },
+        {
+            "name": "Erythema ab igne",
+            "color": "#e81123"
+        },
+        {
+            "name": "Erythema marginatum",
+            "color": "#6917aa"
+        },
+        {
+            "name": "Erythema toxicum neonatorum",
+            "color": "#015cda"
+        },
+        {
+            "name": "Erythema elevatum diutinum",
+            "color": "#4894fe"
+        },
+        {
+            "name": "Erythema chronicum migrans",
+            "color": "#6b849c"
+        },
+        {
+            "name": "Erythema induratum",
+            "color": "#70c400"
+        },
+        {
+            "name": "Erythema migrans",
+            "color": "#f7929a"
+        },
+        {
+            "name": "Erythema multiforme",
+            "color": "#257ffe"
+        },
+        {
+            "name": "Erythema nodosum",
+            "color": "#ddabe9"
+        },
+        {
+            "name": "Erythema toxicum",
+            "color": "#ff8c00"
+        },
+        {
+            "name": "Erythema gyratum repens",
+            "color": "#386300"
+        },
+        {
+            "name": "Keratolytic winter erythema",
+            "color": "#b40e1b"
+        },
+        {
+            "name": "Palmar erythema",
+            "color": "#68217a"
+        }
+    ],
+    "id": "tHp-ts185",
+    "activeLearningSettings": {
+        "autoDetect": false,
+        "predictTag": true,
+        "modelPathType": "coco"
+    },
+    "exportFormat": {
+        "providerType": "csv",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiYmRmMzYzNjFmZTE1MmQ3NzEyNDVjNjA1MTcyZWYwYTU0NWU5OWU2YjZmM2UwNmFjMjVjZjI4Y2IyYjBkNWMzM2QxNzQ3YzkwNTBiNTllODk0NDQ1MWRmMjIzY2IzOTY3IiwiaXYiOiI1ODI1NDMwODllMzI3NWM5MzU2OGI4OTI1ODI0ZDExODYzNjA5YjBiOTVmM2NiNWYifQ=="
+        }
+    },
+    "version": "2.2.0",
+    "lastVisitedAssetId": "c00737de530096e1613fd2c96b7d3e36",
+    "assets": {
+        "9c6b916ea2746d296ac5f7bc594e545a": {
+            "format": "jpg",
+            "id": "9c6b916ea2746d296ac5f7bc594e545a",
+            "name": "images%20(1).jpg",
+            "path": "file:C:/yolo_structure/Data/Source_Images/Training_Images/images%20(1).jpg",
+            "size": {
+                "width": 183,
+                "height": 275
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3b9d8021b71639427559627868b23857": {
+            "format": "jpg",
+            "id": "3b9d8021b71639427559627868b23857",
+            "name": "images%20(10).jpg",
+            "path": "file:C:/yolo_structure/Data/Source_Images/Training_Images/images%20(10).jpg",
+            "size": {
+                "width": 261,
+                "height": 193
+            },
+            "state": 2,
+            "type": 1
+        },
+        "fbbc9d8d6fede77dff4c1f2202d1799d": {
+            "format": "jpg",
+            "id": "fbbc9d8d6fede77dff4c1f2202d1799d",
+            "name": "images%20(11).jpg",
+            "path": "file:C:/yolo_structure/Data/Source_Images/Training_Images/images%20(11).jpg",
+            "size": {
+                "width": 259,
+                "height": 194
+            },
+            "state": 2,
+            "type": 1
+        },
+        "facbe836c27ed0635da8fb0d7837155f": {
+            "format": "jpg",
+            "id": "facbe836c27ed0635da8fb0d7837155f",
+            "name": "images%20(12).jpg",
+            "path": "file:C:/yolo_structure/Data/Source_Images/Training_Images/images%20(12).jpg",
+            "size": {
+                "width": 272,
+                "height": 185
+            },
+            "state": 2,
+            "type": 1
+        },
+        "94c0d576727b0407d2b8006e6edfde58": {
+            "format": "jpg",
+            "id": "94c0d576727b0407d2b8006e6edfde58",
+            "name": "images%20(13).jpg",
+            "path": "file:C:/yolo_structure/Data/Source_Images/Training_Images/images%20(13).jpg",
+            "size": {
+                "width": 289,
+                "height": 175
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d1448f1944e71bc8981d0ccbf2ef4097": {
+            "format": "jpg",
+            "id": "d1448f1944e71bc8981d0ccbf2ef4097",
+            "name": "images%20(14).jpg",
+            "path": "file:C:/yolo_structure/Data/Source_Images/Training_Images/images%20(14).jpg",
+            "size": {
+                "width": 272,
+                "height": 185
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f12e5178a76a4e65af0a9cf7d28344de": {
+            "format": "jpg",
+            "id": "f12e5178a76a4e65af0a9cf7d28344de",
+            "name": "images%20(15).jpg",
+            "path": "file:C:/yolo_structure/Data/Source_Images/Training_Images/images%20(15).jpg",
+            "size": {
+                "width": 255,
+                "height": 197
+            },
+            "state": 2,
+            "type": 1
+        },
+        "24af461affc7daa7abce386970c055ea": {
+            "format": "jpg",
+            "id": "24af461affc7daa7abce386970c055ea",
+            "name": "images%20(16).jpg",
+            "path": "file:C:/yolo_structure/Data/Source_Images/Training_Images/images%20(16).jpg",
+            "size": {
+                "width": 259,
+                "height": 194
+            },
+            "state": 2,
+            "type": 1
+        },
+        "53ad257bcef5ee75ad877f5392ed4a93": {
+            "format": "jpg",
+            "id": "53ad257bcef5ee75ad877f5392ed4a93",
+            "name": "images%20(17).jpg",
+            "path": "file:C:/yolo_structure/Data/Source_Images/Training_Images/images%20(17).jpg",
+            "size": {
+                "width": 278,
+                "height": 181
+            },
+            "state": 2,
+            "type": 1
+        },
+        "fec2175fdc3e48ddf9f6edfa8115f574": {
+            "format": "jpg",
+            "id": "fec2175fdc3e48ddf9f6edfa8115f574",
+            "name": "images%20(18).jpg",
+            "path": "file:C:/yolo_structure/Data/Source_Images/Training_Images/images%20(18).jpg",
+            "size": {
+                "width": 310,
+                "height": 163
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e547f7ea6e135075d21947425f99d6a8": {
+            "format": "jpg",
+            "id": "e547f7ea6e135075d21947425f99d6a8",
+            "name": "images%20(19).jpg",
+            "path": "file:C:/yolo_structure/Data/Source_Images/Training_Images/images%20(19).jpg",
+            "size": {
+                "width": 274,
+                "height": 184
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c2dc0057f48ed4e24107f2c0107cfa4c": {
+            "format": "jpg",
+            "id": "c2dc0057f48ed4e24107f2c0107cfa4c",
+            "name": "images%20(2).jpg",
+            "path": "file:C:/yolo_structure/Data/Source_Images/Training_Images/images%20(2).jpg",
+            "size": {
+                "width": 259,
+                "height": 194
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7c713fb5ec82e83845f033e93f46fd5a": {
+            "format": "jpg",
+            "id": "7c713fb5ec82e83845f033e93f46fd5a",
+            "name": "images%20(20).jpg",
+            "path": "file:C:/yolo_structure/Data/Source_Images/Training_Images/images%20(20).jpg",
+            "size": {
+                "width": 300,
+                "height": 168
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1099aaf19a91e959807bda90bfa52715": {
+            "format": "jpg",
+            "id": "1099aaf19a91e959807bda90bfa52715",
+            "name": "images%20(21).jpg",
+            "path": "file:C:/yolo_structure/Data/Source_Images/Training_Images/images%20(21).jpg",
+            "size": {
+                "width": 272,
+                "height": 185
+            },
+            "state": 2,
+            "type": 1
+        },
+        "dbd85df9993bbb387b511c8632668ace": {
+            "format": "jpg",
+            "id": "dbd85df9993bbb387b511c8632668ace",
+            "name": "images%20(22).jpg",
+            "path": "file:C:/yolo_structure/Data/Source_Images/Training_Images/images%20(22).jpg",
+            "size": {
+                "width": 275,
+                "height": 183
+            },
+            "state": 2,
+            "type": 1
+        },
+        "fb2736b8426a4a46323208b651afa3b9": {
+            "format": "jpg",
+            "id": "fb2736b8426a4a46323208b651afa3b9",
+            "name": "images%20(23).jpg",
+            "path": "file:C:/yolo_structure/Data/Source_Images/Training_Images/images%20(23).jpg",
+            "size": {
+                "width": 282,
+                "height": 179
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1b54817397086d2da5fa5bbc07b33c4a": {
+            "format": "jpg",
+            "id": "1b54817397086d2da5fa5bbc07b33c4a",
+            "name": "images%20(24).jpg",
+            "path": "file:C:/yolo_structure/Data/Source_Images/Training_Images/images%20(24).jpg",
+            "size": {
+                "width": 266,
+                "height": 190
+            },
+            "state": 2,
+            "type": 1
+        },
+        "47a817ceec3e40ad5680461ba68d4ba7": {
+            "format": "jpg",
+            "id": "47a817ceec3e40ad5680461ba68d4ba7",
+            "name": "images%20(25).jpg",
+            "path": "file:C:/yolo_structure/Data/Source_Images/Training_Images/images%20(25).jpg",
+            "size": {
+                "width": 300,
+                "height": 168
+            },
+            "state": 2,
+            "type": 1
+        },
+        "bfd647d5570aadbdc30b965bff783a61": {
+            "format": "jpg",
+            "id": "bfd647d5570aadbdc30b965bff783a61",
+            "name": "images%20(26).jpg",
+            "path": "file:C:/yolo_structure/Data/Source_Images/Training_Images/images%20(26).jpg",
+            "size": {
+                "width": 265,
+                "height": 190
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a226430ef3774fee19b420463782973f": {
+            "format": "jpg",
+            "id": "a226430ef3774fee19b420463782973f",
+            "name": "images%20(27).jpg",
+            "path": "file:C:/yolo_structure/Data/Source_Images/Training_Images/images%20(27).jpg",
+            "size": {
+                "width": 267,
+                "height": 189
+            },
+            "state": 2,
+            "type": 1
+        },
+        "674e6d19954ef1135fefe90850c51913": {
+            "format": "jpg",
+            "id": "674e6d19954ef1135fefe90850c51913",
+            "name": "images%20(28).jpg",
+            "path": "file:C:/yolo_structure/Data/Source_Images/Training_Images/images%20(28).jpg",
+            "size": {
+                "width": 275,
+                "height": 183
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ec6a1a74235d52ab702f653f83d643b1": {
+            "format": "jpg",
+            "id": "ec6a1a74235d52ab702f653f83d643b1",
+            "name": "images%20(29).jpg",
+            "path": "file:C:/yolo_structure/Data/Source_Images/Training_Images/images%20(29).jpg",
+            "size": {
+                "width": 238,
+                "height": 212
+            },
+            "state": 2,
+            "type": 1
+        },
+        "971fe22980171f371c84af5928b665a2": {
+            "format": "jpg",
+            "id": "971fe22980171f371c84af5928b665a2",
+            "name": "images%20(3).jpg",
+            "path": "file:C:/yolo_structure/Data/Source_Images/Training_Images/images%20(3).jpg",
+            "size": {
+                "width": 272,
+                "height": 185
+            },
+            "state": 2,
+            "type": 1
+        },
+        "791652baeaa10a25a90e5caaa35691a2": {
+            "format": "jpg",
+            "id": "791652baeaa10a25a90e5caaa35691a2",
+            "name": "images%20(30).jpg",
+            "path": "file:C:/yolo_structure/Data/Source_Images/Training_Images/images%20(30).jpg",
+            "size": {
+                "width": 273,
+                "height": 185
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6997186cf59b9027aa919fa6799ac930": {
+            "format": "jpg",
+            "id": "6997186cf59b9027aa919fa6799ac930",
+            "name": "images%20(31).jpg",
+            "path": "file:C:/yolo_structure/Data/Source_Images/Training_Images/images%20(31).jpg",
+            "size": {
+                "width": 300,
+                "height": 168
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b58feecbf2e2bcd2e46aa15128ace5bb": {
+            "format": "jpg",
+            "id": "b58feecbf2e2bcd2e46aa15128ace5bb",
+            "name": "images%20(32).jpg",
+            "path": "file:C:/yolo_structure/Data/Source_Images/Training_Images/images%20(32).jpg",
+            "size": {
+                "width": 274,
+                "height": 184
+            },
+            "state": 2,
+            "type": 1
+        },
+        "947587ad06e6a50ca97af80152ca5c8b": {
+            "format": "jpg",
+            "id": "947587ad06e6a50ca97af80152ca5c8b",
+            "name": "images%20(33).jpg",
+            "path": "file:C:/yolo_structure/Data/Source_Images/Training_Images/images%20(33).jpg",
+            "size": {
+                "width": 274,
+                "height": 184
+            },
+            "state": 2,
+            "type": 1
+        },
+        "41394856396774ac32508fbe7abd2d88": {
+            "format": "jpg",
+            "id": "41394856396774ac32508fbe7abd2d88",
+            "name": "images%20(34).jpg",
+            "path": "file:C:/yolo_structure/Data/Source_Images/Training_Images/images%20(34).jpg",
+            "size": {
+                "width": 278,
+                "height": 181
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ecdf9e5d949e3656d6e0f7fba8cb0c3f": {
+            "format": "jpg",
+            "id": "ecdf9e5d949e3656d6e0f7fba8cb0c3f",
+            "name": "images%20(35).jpg",
+            "path": "file:C:/yolo_structure/Data/Source_Images/Training_Images/images%20(35).jpg",
+            "size": {
+                "width": 194,
+                "height": 260
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c9d932942920b45e9f1b1354259b5cac": {
+            "format": "jpg",
+            "id": "c9d932942920b45e9f1b1354259b5cac",
+            "name": "images%20(36).jpg",
+            "path": "file:C:/yolo_structure/Data/Source_Images/Training_Images/images%20(36).jpg",
+            "size": {
+                "width": 286,
+                "height": 176
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6ad5d9f9e3cab8a8cc9bc803e2d07ade": {
+            "format": "jpg",
+            "id": "6ad5d9f9e3cab8a8cc9bc803e2d07ade",
+            "name": "images%20(37).jpg",
+            "path": "file:C:/yolo_structure/Data/Source_Images/Training_Images/images%20(37).jpg",
+            "size": {
+                "width": 272,
+                "height": 185
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0e6f8b53d951316188956d7819a61775": {
+            "format": "jpg",
+            "id": "0e6f8b53d951316188956d7819a61775",
+            "name": "images%20(38).jpg",
+            "path": "file:C:/yolo_structure/Data/Source_Images/Training_Images/images%20(38).jpg",
+            "size": {
+                "width": 300,
+                "height": 168
+            },
+            "state": 2,
+            "type": 1
+        },
+        "90718a4c230ee761aad30c6ce2a69bb9": {
+            "format": "jpg",
+            "id": "90718a4c230ee761aad30c6ce2a69bb9",
+            "name": "images%20(39).jpg",
+            "path": "file:C:/yolo_structure/Data/Source_Images/Training_Images/images%20(39).jpg",
+            "size": {
+                "width": 238,
+                "height": 212
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8e250cdade61f13c2f8d855e11033233": {
+            "format": "jpg",
+            "id": "8e250cdade61f13c2f8d855e11033233",
+            "name": "images%20(4).jpg",
+            "path": "file:C:/yolo_structure/Data/Source_Images/Training_Images/images%20(4).jpg",
+            "size": {
+                "width": 259,
+                "height": 194
+            },
+            "state": 2,
+            "type": 1
+        },
+        "54a2d02cc52612401b35fd187edc3b0b": {
+            "format": "jpg",
+            "id": "54a2d02cc52612401b35fd187edc3b0b",
+            "name": "images%20(40).jpg",
+            "path": "file:C:/yolo_structure/Data/Source_Images/Training_Images/images%20(40).jpg",
+            "size": {
+                "width": 259,
+                "height": 195
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c81a0effd06bdbbeda29920df2c5a5d5": {
+            "format": "jpg",
+            "id": "c81a0effd06bdbbeda29920df2c5a5d5",
+            "name": "images%20(41).jpg",
+            "path": "file:C:/yolo_structure/Data/Source_Images/Training_Images/images%20(41).jpg",
+            "size": {
+                "width": 182,
+                "height": 276
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d73a36e582058a478fac018a1fc3d4e3": {
+            "format": "jpg",
+            "id": "d73a36e582058a478fac018a1fc3d4e3",
+            "name": "images%20(42).jpg",
+            "path": "file:C:/yolo_structure/Data/Source_Images/Training_Images/images%20(42).jpg",
+            "size": {
+                "width": 278,
+                "height": 182
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6ce5f069c3d2fa9fff227592f6034dc1": {
+            "format": "jpg",
+            "id": "6ce5f069c3d2fa9fff227592f6034dc1",
+            "name": "images%20(43).jpg",
+            "path": "file:C:/yolo_structure/Data/Source_Images/Training_Images/images%20(43).jpg",
+            "size": {
+                "width": 197,
+                "height": 255
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8525d1e8fd51643edb9b2c0cf093e8e8": {
+            "format": "jpg",
+            "id": "8525d1e8fd51643edb9b2c0cf093e8e8",
+            "name": "images%20(44).jpg",
+            "path": "file:C:/yolo_structure/Data/Source_Images/Training_Images/images%20(44).jpg",
+            "size": {
+                "width": 275,
+                "height": 183
+            },
+            "state": 2,
+            "type": 1
+        },
+        "857d4d3e868f6a25097dd0a399f6d61e": {
+            "format": "jpg",
+            "id": "857d4d3e868f6a25097dd0a399f6d61e",
+            "name": "images%20(45).jpg",
+            "path": "file:C:/yolo_structure/Data/Source_Images/Training_Images/images%20(45).jpg",
+            "size": {
+                "width": 267,
+                "height": 189
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c47b280240fc588d609e02b099fd4f3b": {
+            "format": "jpg",
+            "id": "c47b280240fc588d609e02b099fd4f3b",
+            "name": "images%20(46).jpg",
+            "path": "file:C:/yolo_structure/Data/Source_Images/Training_Images/images%20(46).jpg",
+            "size": {
+                "width": 275,
+                "height": 183
+            },
+            "state": 2,
+            "type": 1
+        },
+        "cd11a0403e7e51fa9fe977e4d409bd73": {
+            "format": "jpg",
+            "id": "cd11a0403e7e51fa9fe977e4d409bd73",
+            "name": "images%20(47).jpg",
+            "path": "file:C:/yolo_structure/Data/Source_Images/Training_Images/images%20(47).jpg",
+            "size": {
+                "width": 272,
+                "height": 185
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8a70ed36b9acc5b2cec108dc928ac249": {
+            "format": "jpg",
+            "id": "8a70ed36b9acc5b2cec108dc928ac249",
+            "name": "images%20(48).jpg",
+            "path": "file:C:/yolo_structure/Data/Source_Images/Training_Images/images%20(48).jpg",
+            "size": {
+                "width": 259,
+                "height": 194
+            },
+            "state": 2,
+            "type": 1
+        },
+        "31e76509ba37693b604509cb636d6639": {
+            "format": "jpg",
+            "id": "31e76509ba37693b604509cb636d6639",
+            "name": "images%20(49).jpg",
+            "path": "file:C:/yolo_structure/Data/Source_Images/Training_Images/images%20(49).jpg",
+            "size": {
+                "width": 275,
+                "height": 183
+            },
+            "state": 2,
+            "type": 1
+        },
+        "66cf3256856d521549250acc62886496": {
+            "format": "jpg",
+            "id": "66cf3256856d521549250acc62886496",
+            "name": "images%20(5).jpg",
+            "path": "file:C:/yolo_structure/Data/Source_Images/Training_Images/images%20(5).jpg",
+            "size": {
+                "width": 174,
+                "height": 290
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c6e42f696e649996ab7dd020678c5c56": {
+            "format": "jpg",
+            "id": "c6e42f696e649996ab7dd020678c5c56",
+            "name": "images%20(50).jpg",
+            "path": "file:C:/yolo_structure/Data/Source_Images/Training_Images/images%20(50).jpg",
+            "size": {
+                "width": 272,
+                "height": 185
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1fac9e1d018c33b2d60918f7060e1feb": {
+            "format": "jpg",
+            "id": "1fac9e1d018c33b2d60918f7060e1feb",
+            "name": "images%20(6).jpg",
+            "path": "file:C:/yolo_structure/Data/Source_Images/Training_Images/images%20(6).jpg",
+            "size": {
+                "width": 246,
+                "height": 205
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0a1559ad8b76423bf841f1172ec2ea24": {
+            "format": "jpg",
+            "id": "0a1559ad8b76423bf841f1172ec2ea24",
+            "name": "images%20(7).jpg",
+            "path": "file:C:/yolo_structure/Data/Source_Images/Training_Images/images%20(7).jpg",
+            "size": {
+                "width": 300,
+                "height": 168
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4255079104dcd2afc262bb652d478860": {
+            "format": "jpg",
+            "id": "4255079104dcd2afc262bb652d478860",
+            "name": "images%20(8).jpg",
+            "path": "file:C:/yolo_structure/Data/Source_Images/Training_Images/images%20(8).jpg",
+            "size": {
+                "width": 259,
+                "height": 194
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c00737de530096e1613fd2c96b7d3e36": {
+            "format": "jpg",
+            "id": "c00737de530096e1613fd2c96b7d3e36",
+            "name": "images%20(9).jpg",
+            "path": "file:C:/yolo_structure/Data/Source_Images/Training_Images/images%20(9).jpg",
+            "size": {
+                "width": 269,
+                "height": 187
+            },
+            "state": 2,
+            "type": 1
+        }
+    }
+}

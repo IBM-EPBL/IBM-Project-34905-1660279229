@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "66cf3256856d521549250acc62886496",
+        "name": "images%20(5).jpg",
+        "path": "file:C:/yolo_structure/Data/Source_Images/Training_Images/images%20(5).jpg",
+        "size": {
+            "width": 174,
+            "height": 290
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "AioHT9ADU",
+            "type": "RECTANGLE",
+            "tags": [
+                "Erythema nodosum"
+            ],
+            "boundingBox": {
+                "height": 119.41176470588235,
+                "width": 66.85013623978202,
+                "left": 47.2262431880109,
+                "top": 18.480392156862745
+            },
+            "points": [
+                {
+                    "x": 47.2262431880109,
+                    "y": 18.480392156862745
+                },
+                {
+                    "x": 114.07637942779292,
+                    "y": 18.480392156862745
+                },
+                {
+                    "x": 114.07637942779292,
+                    "y": 137.89215686274508
+                },
+                {
+                    "x": 47.2262431880109,
+                    "y": 137.89215686274508
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

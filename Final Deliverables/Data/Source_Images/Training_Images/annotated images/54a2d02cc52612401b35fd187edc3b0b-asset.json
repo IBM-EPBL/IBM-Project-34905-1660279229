@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "54a2d02cc52612401b35fd187edc3b0b",
+        "name": "images%20(40).jpg",
+        "path": "file:C:/yolo_structure/Data/Source_Images/Training_Images/images%20(40).jpg",
+        "size": {
+            "width": 259,
+            "height": 195
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "TUXfee8Bf",
+            "type": "RECTANGLE",
+            "tags": [
+                "Erythema induratum"
+            ],
+            "boundingBox": {
+                "height": 118.84803921568627,
+                "width": 129.34071340713407,
+                "left": 67.67689114391145,
+                "top": 32.5
+            },
+            "points": [
+                {
+                    "x": 67.67689114391145,
+                    "y": 32.5
+                },
+                {
+                    "x": 197.0176045510455,
+                    "y": 32.5
+                },
+                {
+                    "x": 197.0176045510455,
+                    "y": 151.34803921568627
+                },
+                {
+                    "x": 67.67689114391145,
+                    "y": 151.34803921568627
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

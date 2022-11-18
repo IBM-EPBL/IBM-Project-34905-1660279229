@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "a226430ef3774fee19b420463782973f",
+        "name": "images%20(27).jpg",
+        "path": "file:C:/yolo_structure/Data/Source_Images/Training_Images/images%20(27).jpg",
+        "size": {
+            "width": 267,
+            "height": 189
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "0rPdeAovb",
+            "type": "RECTANGLE",
+            "tags": [
+                "Erythema toxicum"
+            ],
+            "boundingBox": {
+                "height": 84.17918088737201,
+                "width": 93.19202898550725,
+                "left": 71.90942028985506,
+                "top": 50.97920221843004
+            },
+            "points": [
+                {
+                    "x": 71.90942028985506,
+                    "y": 50.97920221843004
+                },
+                {
+                    "x": 165.1014492753623,
+                    "y": 50.97920221843004
+                },
+                {
+                    "x": 165.1014492753623,
+                    "y": 135.15838310580205
+                },
+                {
+                    "x": 71.90942028985506,
+                    "y": 135.15838310580205
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}
