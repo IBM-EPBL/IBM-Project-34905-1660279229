@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "0e6f8b53d951316188956d7819a61775",
+        "name": "images%20(38).jpg",
+        "path": "file:C:/yolo_structure/Data/Source_Images/Training_Images/images%20(38).jpg",
+        "size": {
+            "width": 300,
+            "height": 168
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "ilKgvr903",
+            "type": "RECTANGLE",
+            "tags": [
+                "Erythema migrans"
+            ],
+            "boundingBox": {
+                "height": 153.1551724137931,
+                "width": 239.85507246376812,
+                "left": 29.347826086956523,
+                "top": 7.184806034482759
+            },
+            "points": [
+                {
+                    "x": 29.347826086956523,
+                    "y": 7.184806034482759
+                },
+                {
+                    "x": 269.2028985507246,
+                    "y": 7.184806034482759
+                },
+                {
+                    "x": 269.2028985507246,
+                    "y": 160.33997844827587
+                },
+                {
+                    "x": 29.347826086956523,
+                    "y": 160.33997844827587
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}
