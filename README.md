@@ -9,7 +9,6 @@
   <a href="https://www.python.org/">
    <img src="https://forthebadge.com/images/badges/made-with-python.svg" width =190>
   </a>
-  <a href="https://www.ibm.com/cloud">
-      <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngtree.com%2Ffreepng%2Fcloud-free-button-png-image_4671441.html&psig=AOvVaw0QU1hFUpbtQs7H2eAT2GvT&ust=1668926834395000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCNDNg4vTufsCFQAAAAAdAAAAABAE" width=130>
-    <a/>
+  
+  !\[my badge\](https://badgen.net/badge/hello/world/red?icon=twitter)
 
