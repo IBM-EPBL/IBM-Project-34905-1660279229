@@ -57,6 +57,43 @@
         4. Create HTML page and pretrained data, algorithm are connected to IBM cloudant Database.
 
         5. You will be able to build web applications using the Flask framework and predict output.  
+ ## <img src="https://media.giphy.com/media/nDmTGama5e9ZH6mlT3/giphy.gif" width="30px"> Prerequisites :
+## Anaconda Navigator :
+- Anaconda Navigator is a free and open-source distribution of the Python and R programming languages for data science and machine learning-related applications. It can be installed on Windows, Linux, and macOS. Conda is an open-source, cross-platform,  package management system. Anaconda comes with so very nice tools like JupyterLab, Jupyter Notebook,QtConsole, Spyder, Glueviz, Orange, Rstudio, Visual Studio Code. For this project, we will be using Jupiter notebook and spyder.
+
+ ### To build Deep learning models you must require the following packages :
+ - Tensor flow: TensorFlow is an end-to-end open-source platform for machine learning. It has a comprehensive, flexible ecosystem of tools, libraries, and community resources that lets researchers push the state-of-the-art in ML and developers can easily build and deploy ML powered applications.
+ - Keras : Keras leverages various optimization techniques to make high level neural network API easier and more performant. It supports the following features.
  
+       1. Consistent, simple and extensible API.
+       
+       2. Minimal structure - easy to achieve the result without any frills.
+       
+       3. It supports multiple platforms and backends.
+       
+       4. It is user-friendly framework that runs on both CPU and GPU.
+       
+       5. Highly scalability of computation.
+ - Flask: Web framework used for building  Web applications
+
+## <img src="https://media.giphy.com/media/nDmTGama5e9ZH6mlT3/giphy.gif" width="30px"> Technical Architecture : 
+ ![image](https://i.ibb.co/pzKcwYv/image2.png)
+ ## <img src="https://media.giphy.com/media/nDmTGama5e9ZH6mlT3/giphy.gif" width="30px"> Project Structure :
+ ![image](https://i.ibb.co/6sszcZG/download.png)
+ - The dataset folder contains two folders contains a test and train folder, each of them have images of different fruits.
+- The Flask folder has all the files necessary to build the flask application. 
+
+     -  Templates folder has the HTML pages.
+  
+     -  Uploads folder has the uploads made by the user.
+  
+     -  app.py is the python script for server-side computing.
+  
+     - .h5 files are the model files that are to be saved after model building.
+  
+ 
+
+  
+ IBM Nalaiya Thiran | Agni College Of Technology
   
 
