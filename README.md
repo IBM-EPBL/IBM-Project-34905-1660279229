@@ -10,6 +10,6 @@
    <img src="https://forthebadge.com/images/badges/made-with-python.svg" width =190>
   </a>
   <a href="https://www.ibm.com/cloud">
-      <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fappdevelopermagazine.com%2Fibm-to-purchase-cloudant-database-as-a-service-%2528dbaas%2529-provider%2F&psig=AOvVaw0nDM8w8ZrbClpVuqmu2Ry_&ust=1668926140422000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMjYjMPQufsCFQAAAAAdAAAAABAD" width=130>
+      <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngtree.com%2Ffreepng%2Fcloud-free-button-png-image_4671441.html&psig=AOvVaw0QU1hFUpbtQs7H2eAT2GvT&ust=1668926834395000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCNDNg4vTufsCFQAAAAAdAAAAABAE" width=130>
     <a/>
 
