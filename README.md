@@ -42,5 +42,21 @@
  
  ![image](https://i.ibb.co/2gsT69v/Screenshot-20221118-205150.png)
  
+      
+## <img src="https://media.giphy.com/media/nDmTGama5e9ZH6mlT3/giphy.gif" width="30px"> Built with tools
+![image](https://d1vwxdpzbgdqj.cloudfront.net/assets/aiml-pp-new/language-logos-mob-86e412da059ad22dc2176eb7b853c4555aaf85b0c495ce2a7bd11baa582f6f90.jpg)
+
+## <img src="https://media.giphy.com/media/nDmTGama5e9ZH6mlT3/giphy.gif" width="30px"> Project Objectives: 
+        1. Creating the data set from scratch by downloading ERYTHEMA skin disease images
+
+        2. To make our detector learn, we first need to feed it some good training examples.
+           We use Microsoft's Visual Object Tagging Tool (VoTT) to manually label images
+
+        3. we will train our model using YOLO weights.
+
+        4. Create HTML page and pretrained data, algorithm are connected to IBM cloudant Database.
+
+        5. You will be able to build web applications using the Flask framework and predict output.  
+ 
   
 
