@@ -40,7 +40,7 @@
 
  To overcome the above problem we are building a model which is used for the prevention and early detection of skin cancer, psoriasis. Basically, skin disease diagnosis depends on the different characteristics like colour, shape, texture etc. Here the person can capture the images of skin and then the image will be sent the trained model. The model analyses the image and detect whether the person is having skin disease or not.
  
-[image](https://312819104016-bha.imgbb.com/)
+![image](https://ibb.co/4PYHfq8)
  
   
 
