@@ -9,6 +9,7 @@
   <a href="https://www.python.org/">
    <img src="https://forthebadge.com/images/badges/made-with-python.svg" width =190>
   </a>
-  
-  !\[my badge\](https://badgen.net/badge/hello/world/red?icon=twitter)
+  <a href="https://www.ibm.com/cloud">
+      <img src="https://img.shields.io/badge/IBM%20Cloudant-BE95FF.svg?style=for-the-badge&logo=IBM-Cloudant&logoColor=white" width=130>
+  </a>
 
