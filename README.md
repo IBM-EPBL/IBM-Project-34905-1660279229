@@ -30,7 +30,7 @@
   ## <img src="https://media.giphy.com/media/nDmTGama5e9ZH6mlT3/giphy.gif" width="30px"> Team:
     1. Bhavitha R [TL] - 312819104016
     
-    2. Dhanakashmi G [TM1] -312819104021
+    2. Dhanalakshmi G [TM1] -312819104021
     
     3. Bhuvaneshwaran A [TM2] - 312819104017
     
