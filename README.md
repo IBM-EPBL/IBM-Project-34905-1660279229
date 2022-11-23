@@ -25,7 +25,7 @@
     <img src="https://img.shields.io/badge/Numpy-D00000.svg?style=for-the-badge&logo=Numpy&logoColor=white">
     </a>
   </p>
-  <img src="https://media.giphy.com/media/UX5ovY9QQ1FOpaKtc8/giphy.gif" width="30px"><a href="https://www.youtube.com/watch?v=YRFqZn9cftA">Demo Video Project</a>
+  <img src="https://media.giphy.com/media/UX5ovY9QQ1FOpaKtc8/giphy.gif" width="30px"><a href="https://youtu.be/5z5av9i6gZ4">Demo Video Project</a>
   
   ## <img src="https://media.giphy.com/media/nDmTGama5e9ZH6mlT3/giphy.gif" width="30px"> Team:
     1. Bhavitha R [TL] - 312819104016
